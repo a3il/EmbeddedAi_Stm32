@@ -19,6 +19,8 @@ pre-requistes Nano-Edge ai studio,stm32 dev board,arduino ide,audio sensor,usb-b
 6. Open Nano-Edge Ai studio and then click n-classifications > Start collecting different audio samples atleast upto 100 lines,better the samples better the accuracy. >cross check with the fft waveform >Benchmark your audio samples(cpu extensive task)(score above 90% is acceptable)>Emulate and check if your audio is being detected as your said class>Validate the dataset and then deploy and compile the file.
 7. Copy the knowledge.h ,libneai.a,NanoEdgeAI.h to arduino library Nokia_5110_LCD_library,NanoEdgeAI folders.
 8. Now you can upload the secondly attached code to your stm32 board.
+![image2](https://user-images.githubusercontent.com/111580618/204716017-af4a1a8e-9be4-45cd-a3ae-94e585a5da6c.jpeg)
+
 ![image3](https://user-images.githubusercontent.com/111580618/204715593-e0453c09-dd02-4647-ace2-33f54f3d70dd.jpeg)
 
 
